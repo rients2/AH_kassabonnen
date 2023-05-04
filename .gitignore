@@ -1,6 +1,7 @@
 # Kassabonnen data
 ah_bonnen/
 ah_bonnen_img/
+ah_bonnen_pdf/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
