@@ -2,7 +2,7 @@
 ah_bonnen/
 ah_bonnen_img/
 ah_bonnen_pdf/
-
+*.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
